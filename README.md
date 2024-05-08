@@ -46,4 +46,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![Profile views](https://gpvc.arturio.dev/[anshu15183])
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshu15183)](https://github.com/ryo-ma/github-profile-trophy)

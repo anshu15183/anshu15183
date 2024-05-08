@@ -1,10 +1,6 @@
 
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Anshu Singh
-===================================================================================================================================
-
 Frontend Developer and Aspiring Devops Engineer
 -----------------------------------------------
 
@@ -20,8 +16,8 @@ Frontend Developer and Aspiring Devops Engineer
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
 </a>
-  <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   
 ### Skills
 <p align="center">

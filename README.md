@@ -46,5 +46,7 @@ Here are some ideas to get you started:
   
 </div>
 <div align=center>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshu15183)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>

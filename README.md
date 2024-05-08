@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-  | ![](https://komarev.com/ghpvc/?username=anshu15183&color=blue) |
+  | ![](https://komarev.com/ghpvc/?username=anshu15183&color=grey) |
   |---|
-  *started counting on 9/6/21*
+  *started counting on 8/5/21*
   
 </div>
 

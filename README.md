@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <div align=center>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
 </a>
 
 

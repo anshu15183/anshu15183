@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </div> -->
 
 <div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=transparent&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=transparen&show_icons=true&hide_border=false&count_private=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=transparent&hide_border=false" />
 </div>
 
 <br>

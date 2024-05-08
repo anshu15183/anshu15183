@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
   <div align=center>
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=anshu15183)](https://github.com/ryo-ma/github-profile-trophy)
+
   | ![](https://komarev.com/ghpvc/?username=anshu15183&color=gray) |
   |---|
   *started counting on 9/6/21*
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=anshu15183)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>

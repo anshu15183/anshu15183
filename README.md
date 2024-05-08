@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
   <div align=center>
   
-  | ![](https://komarev.com/ghpvc/?username=anshu15183&color=#41B883) |
+  | ![](https://komarev.com/ghpvc/?username=anshu15183&color=gray) |
   |---|
   *started counting on 9/6/21*
   

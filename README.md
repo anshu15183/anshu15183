@@ -24,7 +24,9 @@ Frontend Developer and Aspiring Devops Engineer
   <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
 </a>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  ### Skills
+  
+  
+### Skills
 
 
 <p align="left">
@@ -32,6 +34,11 @@ Frontend Developer and Aspiring Devops Engineer
 </p>
 
 
-  ![](https://komarev.com/ghpvc/?username=anshu15183&color=gray)
   
+  
+</div>
+<div align=center>
+  
+![](https://komarev.com/ghpvc/?username=anshu15183&color=gray)
+
 </div>

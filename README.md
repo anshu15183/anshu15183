@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 
   | ![](https://komarev.com/ghpvc/?username=anshu15183&color=gray) |
   |---|
-  *started counting on 9/6/21*
   
 </div>

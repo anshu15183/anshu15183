@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  height="290" src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>

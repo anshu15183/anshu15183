@@ -1,6 +1,5 @@
 
-![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/2e97eaa1-9de7-47da-9959-52817e81ffef)
-
+![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Anshu Singh

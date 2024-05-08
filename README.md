@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </div> -->
 
 <div align=center>
-  <img width="470" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="470" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
   
 </div>
 
@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 
 
   <div align=center>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
 </a>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  
 
 
   ![](https://komarev.com/ghpvc/?username=anshu15183&color=gray)

@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 
 <div align=center>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div>
   <div align=center>
   | ![](https://komarev.com/ghpvc/?username=anshu15183&color=grey) |
   |---|
   *started counting on 8/5/21*
   </div>
   
-</div>
+
 

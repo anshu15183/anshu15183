@@ -16,9 +16,9 @@ Frontend Developer and Aspiring Devops Engineer
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
 </a>
-<br>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  <img height="200" style="border-radius:10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<br><br>
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   
 ### Skills
 <p align="center">

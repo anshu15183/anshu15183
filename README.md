@@ -1,4 +1,5 @@
-![Blue Simple LinkedIn Banner](https://github.com/anshu15183/anshu15183/assets/69201747/b471114c-bc48-41a8-80ad-4231a8570519)
+
+![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/2e97eaa1-9de7-47da-9959-52817e81ffef)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)

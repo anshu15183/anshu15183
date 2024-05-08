@@ -14,7 +14,7 @@ Frontend Developer and Aspiring Devops Engineer
 <br>
 <div align=center>
   
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
 </a>
   <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />

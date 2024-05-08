@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </div>
   <div align=center>
   
-  | ![](https://komarev.com/ghpvc/?username=anshu15183&color=grey) |
+  | ![](https://komarev.com/ghpvc/?username=anshu15183&color=#41B883) |
   |---|
   *started counting on 9/6/21*
   

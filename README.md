@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
   <div align=center>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark" alt="GitHub Trophy">
+</a>
+
 
   | ![](https://komarev.com/ghpvc/?username=anshu15183&color=gray) |
   |---|

@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=vue-dark&hide_border=true" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br>
 
 <div align=center>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  
 </div>
   <div align=center>
   

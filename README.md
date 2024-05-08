@@ -18,7 +18,7 @@ Frontend Developer and Aspiring Devops Engineer
 </a>
 <br>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  <img height="200" style="border-radius:10" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img height="200" style="border-radius:10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   
 ### Skills
 <p align="center">

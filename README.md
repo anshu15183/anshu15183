@@ -45,6 +45,5 @@ Here are some ideas to get you started:
   *started counting on 9/6/21*
   
 </div>
-```
-![Visitor Count](https://profile-counter.glitch.me/{anshu15183}/count.svg)
-```
+
+![Profile views](https://gpvc.arturio.dev/[anshu15183])

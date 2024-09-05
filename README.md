@@ -18,6 +18,10 @@ Frontend Developer and Aspiring Devops Engineer
 </a>-->
 <br><br>
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+
+<a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="600" /></a>
+
+  
   <img align="center" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   
 ### Skills

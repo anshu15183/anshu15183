@@ -1,30 +1,4 @@
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
-<div style="display: flex; align-items: flex-start;">
-    <!-- Code Block on the Left -->
-    <div style="flex: 1; padding-right: 20px;">
-        <pre style="background: #f4f4f4; border: 1px solid #ddd; border-radius: 5px; padding: 10px; font-family: monospace; white-space: pre-wrap; overflow: auto;">
-const anshu = {
-    pronouns: "He" | "Him",
-    code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express", "PHP"],
-        },
-        devOps: ["Linux", "Git", "AWS", "Docker", "Jenkins"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        misc: ["Firebase"]
-    },
-};
-        </pre>
-    </div>
-    
-    <!-- Image on the Right -->
-<div style="flex: 1;">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" alt="Programmer GIF" />
-    </div>
-</div>
-
-
 
 <!-- Section for GitHub Stats and Streak Stats -->
 <div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
@@ -61,6 +35,19 @@ const anshu = {
 
 <img align="rigth" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
-<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>
+    ```javascript
+const anshu = {
+    pronouns: "He" | "Him",
+    code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "PHP"],
+        },
+        devOps: ["Linux", "Git", "AWS", "Docker", "Jenkins"],
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase"]
+    },
+   };
+```
 </em></p>

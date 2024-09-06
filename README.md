@@ -21,7 +21,7 @@ Frontend Developer and Aspiring Devops Engineer
 
 <a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="600" /></a>
 
-  
+  <div>
   <img align="center" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   
 ### Skills
@@ -31,7 +31,7 @@ Frontend Developer and Aspiring Devops Engineer
 
 
   
-  
+  </div>
 </div>
 <div align=center>
 

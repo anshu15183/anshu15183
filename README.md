@@ -11,11 +11,6 @@
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
 </div>
-
-<br>
-
-
-    
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu15183&theme=vue&bg_color=273849&hide_border=true" width="100%"/>
 

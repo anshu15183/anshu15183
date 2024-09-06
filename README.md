@@ -1,28 +1,25 @@
 
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
 
-Frontend Developer and Aspiring Devops Engineer
+Backend Developer and Aspiring Devops Engineer
 -----------------------------------------------
-
 <div align=center>
-
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
-  
+    <a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="420" /></a>
+    <img align="center" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
-<br>
+
 <div align=center>
-  <!--
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshu15183&theme=onedark&no-frame=true&column=-1" alt="GitHub Trophy">
-</a>-->
-<br><br>
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
+</div>
 
-<a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="600" /></a>
+<br>
 
-  <div>
-  <img align="center" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align=center>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    
+
+  
   
 ### Skills
 <p align="center">
@@ -31,7 +28,7 @@ Frontend Developer and Aspiring Devops Engineer
 
 
   
-  </div>
+  
 </div>
 <div align=center>
 

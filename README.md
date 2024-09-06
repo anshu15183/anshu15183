@@ -17,7 +17,7 @@ Backend Developer and Aspiring DevOps Engineer
 
 <br>
 
-<div align="center" style="display: flex; align-items: flex-start; gap: 1rem;">
+<div align="center" style="display: flex; flex-direction: row; align-items: flex-start; gap: 1rem; margin-top: 1rem;">
     <div>
         <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
     <div>

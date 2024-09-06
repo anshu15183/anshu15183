@@ -53,5 +53,6 @@ const anshu = {
 
 
 <img align="rigth" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
-![github-header-image](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
+<div align="center" style="margin-top: 2rem;">
+    <img src="https://example.com/your-footer-image.png" width="100%" style="max-width: 800px;" />
+</div>

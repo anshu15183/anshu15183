@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
-
+Backend Developer and Aspiring Devops Engineer
+-----------------------------------------------
 ```javascript
-javascript
 const anshu = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
@@ -20,10 +20,13 @@ const anshu = {
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
 </div>
-<div  style="display: flex; gap: 1rem; margin-top: 1rem;">
+
+<p align="center">
     <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="440" />
-    `<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="200" />
+</p>
+
+
 <div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu15183&theme=vue&bg_color=273849&hide_border=true" width="100%"/>
 </div>

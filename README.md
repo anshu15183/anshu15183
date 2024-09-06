@@ -1,28 +1,19 @@
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
 
 ```javascript
-const anmol = {
+const anshu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express", "PHP"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["Linux", "Git", "AWS", "Docker", "Jenkins"],
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+   };
 ```
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
 <!-- Section for GitHub Stats and Streak Stats -->
 <div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">

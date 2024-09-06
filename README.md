@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
-
-```javascript
+<div style="display: flex; align-items: center; gap: 20px;">
+    <pre style="background: #f4f4f4; border: 1px solid #ddd; border-radius: 5px; padding: 10px; font-family: monospace; white-space: pre; overflow: auto;">
 const anshu = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
@@ -12,8 +12,11 @@ const anshu = {
         databases: ["MongoDB", "MySQL", "SQLite"],
         misc: ["Firebase"]
     },
-   };
-```
+};
+    </pre>
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" alt="Programmer GIF" />
+</div>
+
 
 <!-- Section for GitHub Stats and Streak Stats -->
 <div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">

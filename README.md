@@ -35,7 +35,7 @@
 
 <img align="rigth" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
-<p><em>
+<div>
     ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -57,4 +57,4 @@ const anmol = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-</em></p>
+</div>

@@ -18,8 +18,9 @@ Backend Developer and Aspiring DevOps Engineer
 <br>
 
 <div align="center" style="display: flex; align-items: flex-start; gap: 1rem;">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-    ### Skills
+    <div>
+        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    <div>
     <div>
         <h3>Skills</h3>
         <p align="center">

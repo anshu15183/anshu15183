@@ -22,7 +22,7 @@ const anshu = {
 </p>
 
 <p align="center">
-    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="500" />
+    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="450" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="200" />
 </p>
 

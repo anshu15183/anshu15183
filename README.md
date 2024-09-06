@@ -4,7 +4,7 @@
 Backend Developer and Aspiring Devops Engineer
 -----------------------------------------------
 <div align=center>
-    <a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="200" /></a>
+    <a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="500" /></a>
     <img align="center" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 

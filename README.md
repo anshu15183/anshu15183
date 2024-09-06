@@ -2,7 +2,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
 <!-- Section for GitHub Stats and Streak Stats -->
-<div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
+<div align="center" style="display: flex; gap: 1rem; margin-top: 1rem; width:100">
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
 </div>

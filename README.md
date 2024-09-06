@@ -53,6 +53,6 @@ const anshu = {
 
 
 <img align="rigth" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
-<p align=”center”>
-    <img width=”200" height=”200" src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=”my banner”>
+<p align="center">
+    <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="my banner">
 </p>

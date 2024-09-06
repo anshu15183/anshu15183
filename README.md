@@ -1,16 +1,15 @@
-<!-- Section for GitHub Stats and GIF -->
-<div align="center" style="display: flex; align-items: flex-start; gap: 1rem;">
-    <a href="https://stats.hyochan.dev/en/stats/anshu15183">
-        <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="550" />
-    </a>
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
-</div>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
 <!-- Section for GitHub Stats and Streak Stats -->
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></div>
+<div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
+</div>
+<div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
+    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="550" />
+    `<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu15183&theme=vue&bg_color=273849&hide_border=true" width="100%"/>
 
 

@@ -22,8 +22,8 @@ const anshu = {
 </p>
 
 <p align="center">
-    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="420" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="420" />
+    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="auto" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="350" />
 </p>
 
 

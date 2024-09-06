@@ -3,7 +3,7 @@
 
 Backend Developer and Aspiring Devops Engineer
 -----------------------------------------------
-<div align="center" style="display: flex; align-items: flex-start;">
+<div align="center" style="display: flex; align-items: flex-start; gap: 10">
     <a href="https://stats.hyochan.dev/en/stats/anshu15183">
         <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="550" />
     </a>

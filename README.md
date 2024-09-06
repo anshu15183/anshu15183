@@ -36,7 +36,7 @@
 <img align="rigth" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
 <div>
-    ```javascript
+```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],

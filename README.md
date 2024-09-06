@@ -17,13 +17,13 @@ const anshu = {
 ```
 <!-- Section for GitHub Stats and Streak Stats -->
 <p align="center">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    <img width="440" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="200" />
+    <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="440" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" />
 </p>
 
 

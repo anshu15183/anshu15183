@@ -1,11 +1,26 @@
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
 
+```javascript
+javascript
+const anshu = {
+    pronouns: "He" | "Him",
+    code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "PHP"],
+        },
+        devOps: ["Linux", "Git", "AWS", "Docker", "Jenkins"],
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase"]
+    },
+};
+```
 <!-- Section for GitHub Stats and Streak Stats -->
 <div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anshu15183&theme=vue-dark&hide_border=true" />
 </div>
-<div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
+<div  style="display: flex; gap: 1rem; margin-top: 1rem;">
     <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="550" />
     `<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
@@ -35,24 +50,4 @@
 
 <img align="rigth" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" />
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+

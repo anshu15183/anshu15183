@@ -3,10 +3,13 @@
 
 Backend Developer and Aspiring Devops Engineer
 -----------------------------------------------
-<div align=center>
-    <a href="https://stats.hyochan.dev/en/stats/anshu15183"><img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="550" /></a>
-    <img align="center" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align="center" style="display: flex; align-items: flex-start;">
+    <a href="https://stats.hyochan.dev/en/stats/anshu15183">
+        <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="550" />
+    </a>
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="180" />
 </div>
+
 
 <div align=center>
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />

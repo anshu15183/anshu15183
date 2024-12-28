@@ -1,20 +1,7 @@
 ![github-header-image](https://github.com/anshu15183/anshu15183/assets/69201747/3cce60d1-e837-41f2-be57-00052faeb089)
-Backend Developer and Aspiring Devops Engineer
+RHCSA and DevOps Enthusiast
 -----------------------------------------------
-```javascript
-const anshu = {
-    pronouns: "He" | "Him",
-    code: ["C", "C++", "Javascript", "Python", "Java", "PHP"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express", "PHP"],
-        },
-        devOps: ["Linux", "Git", "AWS", "Docker", "Jenkins"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        misc: ["Firebase"]
-    },
-};
-```
+
 <!-- Section for GitHub Stats and Streak Stats -->
 <p align="center">
     <img width="410" src="https://github-readme-stats.vercel.app/api?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />

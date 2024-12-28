@@ -10,7 +10,7 @@ RHCSA and DevOps Enthusiast
 
 <p align="center">
     <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="480" />
-    dark&show_icons=true&hide_border=true&layout=compact" height="195" />
+    
 </p>
 
 

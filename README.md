@@ -10,13 +10,9 @@ RHCSA and DevOps Enthusiast
 
 <p align="center">
     <img src="https://stats.dooboo.io/api/github-stats?login=anshu15183" width="480" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu15183&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="195" />
+    dark&show_icons=true&hide_border=true&layout=compact" height="195" />
 </p>
 
-
-<div align="center" style="display: flex; gap: 1rem; margin-top: 1rem;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu15183&theme=vue&bg_color=273849&hide_border=true" width="100%"/>
-</div>
 
 
 
